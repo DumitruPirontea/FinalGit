@@ -419,3 +419,22 @@ button{
     padding:2px;
     margin: 7px;
 }
+
+
+
+
+
+.t1{
+    font-size: 30px;
+}
+.t2{
+    font-size: 60px;
+}
+
+.f1{
+    font-family: cursive;
+}
+
+.c1{
+    color: red;
+}
