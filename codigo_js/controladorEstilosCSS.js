@@ -46,7 +46,7 @@ function contenidoPresentacion3() {
 
 function cambiarTamañoLetra() {
     var t = document.getElementById("texto_prueba");
-    t.classList.add('t1');
+    t.classList.add('t2');
 }
 
 function cambiarTipoLetra() {
