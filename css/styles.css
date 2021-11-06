@@ -434,7 +434,13 @@ button{
 .f1{
     font-family: cursive;
 }
+.f2{
+    font-family: 'Times New Roman', Times, serif;
+}
 
 .c1{
     color: red;
+}
+.c2{
+    color: green;
 }
